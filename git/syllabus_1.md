@@ -34,8 +34,8 @@ git log
 
 ## Commands
 git --version
-git config --global user.name "Your Name"
-git config --global user.email "your_email@example.com"
+git config --global user.name "hari"
+git config --global user.email "hari@example.com"
 git config --global core.editor "nano"
 git init
 git status
